@@ -1,0 +1,15 @@
+{
+  "name": "backend-service-jwt-sign-token",
+  "version": "1.0.0",
+  "description": "sign jwt token for Qlik jwt auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "ws": "^8.5.0"
+  }
+}
